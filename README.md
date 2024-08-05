@@ -1,4 +1,4 @@
-# Merkle-Tree-Blochchain
+# Merkle-Tree-Blockchain
 Implementing Merkle Tree Used in Blockchain for Security and Error Detection
 
 
